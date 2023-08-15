@@ -28,11 +28,12 @@ PUT http://localhost:8080/api/v1/client/updateMe?privateCode=1234&nickName=after
 GET http://localhost:8080/api/v1/client
 
 # result
-<figcaption align = "center">before</figcaption>
+
+### before
 ![before.png](before.png)
 
-<figcaption align = "center">after</figcaption>
+### after
 ![after.png](after.png)
 
-<figcaption align = "center">get</figcaption>
+### get 
 ![get.png](get.png)
